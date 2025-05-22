@@ -1,2 +1,3 @@
 # sem1
-creating a new repository
+creating a new repository 
+this is my new repository file
